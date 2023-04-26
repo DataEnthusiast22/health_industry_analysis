@@ -194,11 +194,11 @@ GROUP BY year
 -- top yearly domestic private funding countries
 WITH cte AS (
 SELECT *, 
-ROW_NUMBER () OVER (PARTITION BY year ORDER BY GGHED_CHE DESC) AS position
+ROW_NUMBER () OVER (PARTITION BY year ORDER BY PVTD_CHE DESC) AS position
 FROM #hedist
 WHERE INFO = 'Private'
 )
-SELECT country_name, year, GGHED_CHE
+SELECT country_name, year, PVTD_CHE, GGHED_CHE, EXT_CHE
 FROM cte
 WHERE position = 1
 
@@ -209,7 +209,18 @@ ROW_NUMBER () OVER (PARTITION BY year ORDER BY GGHED_CHE DESC) AS position
 FROM #hedist
 WHERE INFO = 'Government'
 )
-SELECT country_name, year, GGHED_CHE
+SELECT country_name, year, GGHED_CHE, PVTD_CHE, EXT_CHE
+FROM cte
+WHERE position = 1
+
+-- top yearly external funding countries
+WITH cte AS (
+SELECT *, 
+ROW_NUMBER () OVER (PARTITION BY year ORDER BY EXT_CHE DESC) AS position
+FROM #hedist
+WHERE INFO = 'External'
+)
+SELECT country_name, year, EXT_CHE, GGHED_CHE, PVTD_CHE
 FROM cte
 WHERE position = 1
 
