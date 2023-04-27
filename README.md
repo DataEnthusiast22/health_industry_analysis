@@ -53,7 +53,7 @@ On average, their health expenditure per capita stands at $779.20, $606.82, $522
 
 ![query_10](https://user-images.githubusercontent.com/113455719/234801395-d717fe6f-eab8-45af-b3d2-2d0ef5794e52.png)
 
-At the bottom of the table in terms of current health expenditure as a percentage of GDP, the countries occupying the 5 least positions between 2015–2019 are Congo Dem. Rep & Burundi appeared the most followed by Eritrea, Madagascar, Ethiopia, Central African Republic, Niger, Gambia & Sudan.
+At the bottom of the table in terms of current health expenditure as a percentage of GDP, the countries occupying the 5 least positions within the time period were Congo Dem. Rep & Burundi appeared the most followed by Eritrea, Madagascar, Ethiopia, Central African Republic, Niger, Gambia & Sudan.
 
 ![query_12](https://user-images.githubusercontent.com/113455719/234801629-8737100f-4e7f-4290-8ae6-a250ecbac5fc.png)
 
@@ -69,7 +69,7 @@ To investigate how health expenditure is distributed between the government and 
 
 ![result_3](https://user-images.githubusercontent.com/113455719/234803346-d21a89d5-26d8-4d00-b96d-432bbec24c3e.png)
 
-According to the results below, from 2015–2019, the greatest contributors to health expenditure in Africa were from the domestic private sector.
+According to the results below, the greatest contributors to health expenditure in Africa were from the domestic private sector.
 
 ![query_15](https://user-images.githubusercontent.com/113455719/234803481-e5808e7e-0f36-4b87-9e4a-c1ba7103d8b2.png)
 
@@ -91,7 +91,7 @@ I created another  temp table ```#OOP``` in wide format to examine Out-of-pocket
 
 ![query_18](https://user-images.githubusercontent.com/113455719/234804260-bc35583a-4065-4fbf-a205-b24b55695d93.png)
 
-The data shows that Out-of-pocket expenditure (as a percentage of current health expenditure) accounted for a significant portion of total health expenditure in Nigeria and Equatorial Guinea, ranging from 75% to 77%. This indicates a limited reach of government-sponsored health programs/payment schemes. Botswana had the lowest OOP as a percentage of total health expenditure between 2015–2019
+The data shows that Out-of-pocket expenditure (as a percentage of current health expenditure) accounted for a significant portion of total health expenditure in Nigeria and Equatorial Guinea, ranging from 75% to 77%. This indicates a limited reach of government-sponsored health programs/payment schemes. Botswana had the lowest OOP as a percentage of total health expenditure within the time period.
 
 ![query_19](https://user-images.githubusercontent.com/113455719/234804274-3aa64c83-69f4-441f-a2c3-0254f07b7008.png)
 
