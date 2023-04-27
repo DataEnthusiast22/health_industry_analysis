@@ -1,8 +1,8 @@
-# Healthcare Finance & Development in Africa(2015–2019): A SQL ANALYSIS
+# Healthcare Finance & Development in Africa (2015–2019): A SQL ANALYSIS
 
 From 2015 to 2019, healthcare development and financing in African countries were a topic of significant concern. Many countries on the continent face significant challenges in providing adequate healthcare services to their citizens due to a lack of funding, inadequate infrastructure, and poor management practices. As a result, healthcare outcomes in many African countries lagged behind those of developed nations.
 This project aims to analyze the state of healthcare development and financing in selected African countries between 2015 and 2019, with a particular focus on understanding the factors that contribute to disparities in healthcare outcomes. Through this analysis, I hope to answer the question: What was the state of healthcare development in these countries during the period under review? 
-By conducting this analysis of healthcare development and financing from 2015 to 2019, I sought to gain a deeper understanding of the challenges and opportunities in the sector in African countries. Ultimately, to provide insights that can inform policies and initiatives aimed at improving healthcare outcomes and reducing disparities in the region.
+This analysis sought to gain a deeper understanding of the challenges and opportunities in the healthcare sector in Africa. Ultimately, to provide insights that can inform policies and initiatives aimed at improving healthcare outcomes and reducing disparities in the region.
 
 ## TOOLS & TECHNIQUES
 The tools and techniques used to analyze the data are:
