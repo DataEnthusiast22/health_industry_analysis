@@ -50,9 +50,11 @@ Interestingly, it is noteworthy that the top 5 countries that spend the most on 
 ![query_9](https://user-images.githubusercontent.com/113455719/234801385-c33a6967-093f-4669-8e3f-7ca15eff88f0.png)
 
 On average, their health expenditure per capita stands at $779.20, $606.82, $522.89, $454.48, and $450.43, respectively. These countries also have an average health expenditure per capita at purchasing power parity of $1334.80, $1266.92, $1131.04, $929.63, and $1021.76, respectively.
+
 ![query_10](https://user-images.githubusercontent.com/113455719/234801395-d717fe6f-eab8-45af-b3d2-2d0ef5794e52.png)
 
 At the bottom of the table in terms of current health expenditure as a percentage of GDP, the countries occupying the 5 least positions between 2015–2019 are Congo Dem. Rep & Burundi appeared the most followed by Eritrea, Madagascar, Ethiopia, Central African Republic, Niger, Gambia & Sudan.
+
 ![query_12](https://user-images.githubusercontent.com/113455719/234801629-8737100f-4e7f-4290-8ae6-a250ecbac5fc.png)
 
 ![result_2](https://user-images.githubusercontent.com/113455719/234801865-30f866cd-8977-4447-891e-490b0227c588.png)
