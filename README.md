@@ -59,5 +59,6 @@ At the bottom of the table in terms of current health expenditure as a percentag
 
 ![result_2](https://user-images.githubusercontent.com/113455719/234801865-30f866cd-8977-4447-891e-490b0227c588.png)
 
+NOTE: It was at this point, I discovered Intellisense and turned off those pesky redlines that see column names & table names as errors. :) Thanks _Matt Monfils of LinkedIn 'Tips & Tricks - Disabling the Spell Checker Tool in Microsoft SQL Server'_
 
 
